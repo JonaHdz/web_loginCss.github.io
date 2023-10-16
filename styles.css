@@ -24,7 +24,7 @@ body{
 .lado-izquierdo{
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('/loginimg.jpg');
+    background-image: url('loginimg.jpg');
     height: 100vh;
     min-height: 500px;
 }
